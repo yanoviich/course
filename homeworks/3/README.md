@@ -1,0 +1,2 @@
+После выполнения скрипта startOllama.py была запущена модель qwen3.5:9b командой - docker exec -it ollama ollama run qwen3.5:9b
+Вставлен промт и был получен результат который представлен в файле result.py
