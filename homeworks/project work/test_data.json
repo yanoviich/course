@@ -1,0 +1,60 @@
+{
+  "test_data": [
+    {
+      "test_case_id": "TC-01",
+      "inputs": {
+        "имя": "",
+        "фамилия": "",
+        "электронная почта": "example@example.com"
+      },
+      "needs_clarification": ""
+    },
+    {
+      "test_case_id": "TC-02",
+      "inputs": {
+        "имя": "a"
+      },
+      "needs_clarification": ""
+    },
+    {
+      "test_case_id": "TC-03",
+      "inputs": {
+        "фамилия": "a"
+      },
+      "needs_clarification": ""
+    },
+    {
+      "test_case_id": "TC-04",
+      "inputs": {
+        "электронная почта": "example"
+      },
+      "needs_clarification": ""
+    },
+    {
+      "test_case_id": "TC-05",
+      "inputs": {
+        "согласие": false
+      },
+      "needs_clarification": ""
+    },
+    {
+      "test_case_id": "TC-06",
+      "inputs": {
+        "VK": true
+      },
+      "needs_clarification": ""
+    },
+    {
+      "test_case_id": "TC-07",
+      "inputs": {},
+      "needs_clarification": ""
+    },
+    {
+      "test_case_id": "TC-08",
+      "inputs": {
+        "имя": "имя"
+      },
+      "needs_clarification": ""
+    }
+  ]
+}
